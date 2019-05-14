@@ -1,3 +1,5 @@
+require_relative
+
 class Dog 
   # def bark 
   #   puts "Woof!"
